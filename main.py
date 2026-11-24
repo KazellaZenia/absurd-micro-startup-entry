@@ -8,6 +8,8 @@ for lazy AI agents to $MAKEFUN_OUTPUT_DIR/entry.txt.
 import os
 from pathlib import Path
 
+# The pitch: bookkeeping for lazy agents — their own raw API bills turned
+# into itemized expense reports at 2 cents a receipt.
 PITCH = "A micro-startup that turns your lazy AI agent's raw API bills into itemized expense reports for 2 cents a receipt, so it never lifts a finger."
 
 
